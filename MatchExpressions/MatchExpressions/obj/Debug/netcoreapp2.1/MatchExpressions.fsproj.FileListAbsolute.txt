@@ -1,0 +1,10 @@
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\bin\Debug\netcoreapp2.1\MatchExpressions.deps.json
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\bin\Debug\netcoreapp2.1\MatchExpressions.runtimeconfig.json
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\bin\Debug\netcoreapp2.1\MatchExpressions.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\bin\Debug\netcoreapp2.1\MatchExpressions.dll
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\bin\Debug\netcoreapp2.1\MatchExpressions.pdb
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\obj\Debug\netcoreapp2.1\MatchExpressions.fsprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\obj\Debug\netcoreapp2.1\MatchExpressions.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\obj\Debug\netcoreapp2.1\MatchExpressions.AssemblyInfo.fs
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\obj\Debug\netcoreapp2.1\MatchExpressions.dll
+C:\Users\Даниил\source\repos\MatchExpressions\MatchExpressions\obj\Debug\netcoreapp2.1\MatchExpressions.pdb
