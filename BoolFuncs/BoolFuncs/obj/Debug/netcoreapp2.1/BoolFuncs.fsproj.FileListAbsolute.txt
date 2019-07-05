@@ -1,0 +1,10 @@
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\bin\Debug\netcoreapp2.1\BoolFuncs.deps.json
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\bin\Debug\netcoreapp2.1\BoolFuncs.runtimeconfig.json
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\bin\Debug\netcoreapp2.1\BoolFuncs.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\bin\Debug\netcoreapp2.1\BoolFuncs.dll
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\bin\Debug\netcoreapp2.1\BoolFuncs.pdb
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\obj\Debug\netcoreapp2.1\BoolFuncs.fsprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\obj\Debug\netcoreapp2.1\BoolFuncs.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\obj\Debug\netcoreapp2.1\BoolFuncs.AssemblyInfo.fs
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\obj\Debug\netcoreapp2.1\BoolFuncs.dll
+C:\Users\Даниил\source\repos\BoolFuncs\BoolFuncs\obj\Debug\netcoreapp2.1\BoolFuncs.pdb
