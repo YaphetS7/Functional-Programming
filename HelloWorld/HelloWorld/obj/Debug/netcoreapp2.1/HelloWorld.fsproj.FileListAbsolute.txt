@@ -1,0 +1,10 @@
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.fsprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.fs
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Даниил\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
