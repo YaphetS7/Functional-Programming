@@ -1,0 +1,10 @@
+C:\Users\Даниил\source\repos\5.5task\5.5task\bin\Debug\netcoreapp2.1\5.5task.deps.json
+C:\Users\Даниил\source\repos\5.5task\5.5task\bin\Debug\netcoreapp2.1\5.5task.runtimeconfig.json
+C:\Users\Даниил\source\repos\5.5task\5.5task\bin\Debug\netcoreapp2.1\5.5task.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\5.5task\5.5task\bin\Debug\netcoreapp2.1\5.5task.dll
+C:\Users\Даниил\source\repos\5.5task\5.5task\bin\Debug\netcoreapp2.1\5.5task.pdb
+C:\Users\Даниил\source\repos\5.5task\5.5task\obj\Debug\netcoreapp2.1\5.5task.fsprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\5.5task\5.5task\obj\Debug\netcoreapp2.1\5.5task.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\5.5task\5.5task\obj\Debug\netcoreapp2.1\5.5task.AssemblyInfo.fs
+C:\Users\Даниил\source\repos\5.5task\5.5task\obj\Debug\netcoreapp2.1\5.5task.dll
+C:\Users\Даниил\source\repos\5.5task\5.5task\obj\Debug\netcoreapp2.1\5.5task.pdb
