@@ -1,0 +1,10 @@
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\obj\Debug\netcoreapp2.1\CurryingAndComposition.fsprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\obj\Debug\netcoreapp2.1\CurryingAndComposition.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\obj\Debug\netcoreapp2.1\CurryingAndComposition.AssemblyInfo.fs
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\bin\Debug\netcoreapp2.1\CurryingAndComposition.deps.json
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\bin\Debug\netcoreapp2.1\CurryingAndComposition.runtimeconfig.json
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\bin\Debug\netcoreapp2.1\CurryingAndComposition.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\bin\Debug\netcoreapp2.1\CurryingAndComposition.dll
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\bin\Debug\netcoreapp2.1\CurryingAndComposition.pdb
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\obj\Debug\netcoreapp2.1\CurryingAndComposition.dll
+C:\Users\Даниил\source\repos\CurryingAndComposition\CurryingAndComposition\obj\Debug\netcoreapp2.1\CurryingAndComposition.pdb
