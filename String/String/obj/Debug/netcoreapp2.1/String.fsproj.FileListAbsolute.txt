@@ -1,0 +1,10 @@
+C:\Users\Даниил\source\repos\String\String\bin\Debug\netcoreapp2.1\String.deps.json
+C:\Users\Даниил\source\repos\String\String\bin\Debug\netcoreapp2.1\String.runtimeconfig.json
+C:\Users\Даниил\source\repos\String\String\bin\Debug\netcoreapp2.1\String.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\String\String\bin\Debug\netcoreapp2.1\String.dll
+C:\Users\Даниил\source\repos\String\String\bin\Debug\netcoreapp2.1\String.pdb
+C:\Users\Даниил\source\repos\String\String\obj\Debug\netcoreapp2.1\String.fsprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\String\String\obj\Debug\netcoreapp2.1\String.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\String\String\obj\Debug\netcoreapp2.1\String.AssemblyInfo.fs
+C:\Users\Даниил\source\repos\String\String\obj\Debug\netcoreapp2.1\String.dll
+C:\Users\Даниил\source\repos\String\String\obj\Debug\netcoreapp2.1\String.pdb
