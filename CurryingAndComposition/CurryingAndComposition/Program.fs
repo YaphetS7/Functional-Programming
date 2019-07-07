@@ -1,5 +1,5 @@
 ﻿// 20.3.1
-let vat n x = x*(1.0 + float(n / 100))
+let vat n x = x*(1.0 + 0.01 * n)
 
 // 20.3.2
 let unvat n x = x * 100.0 / float(n + 100)
