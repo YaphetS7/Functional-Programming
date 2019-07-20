@@ -1,0 +1,10 @@
+C:\Users\Даниил\source\repos\Records2\Records2\bin\Debug\netcoreapp2.1\Records2.deps.json
+C:\Users\Даниил\source\repos\Records2\Records2\bin\Debug\netcoreapp2.1\Records2.runtimeconfig.json
+C:\Users\Даниил\source\repos\Records2\Records2\bin\Debug\netcoreapp2.1\Records2.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\Records2\Records2\bin\Debug\netcoreapp2.1\Records2.dll
+C:\Users\Даниил\source\repos\Records2\Records2\bin\Debug\netcoreapp2.1\Records2.pdb
+C:\Users\Даниил\source\repos\Records2\Records2\obj\Debug\netcoreapp2.1\Records2.fsprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\Records2\Records2\obj\Debug\netcoreapp2.1\Records2.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\Records2\Records2\obj\Debug\netcoreapp2.1\Records2.AssemblyInfo.fs
+C:\Users\Даниил\source\repos\Records2\Records2\obj\Debug\netcoreapp2.1\Records2.dll
+C:\Users\Даниил\source\repos\Records2\Records2\obj\Debug\netcoreapp2.1\Records2.pdb
