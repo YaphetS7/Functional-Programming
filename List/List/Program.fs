@@ -9,8 +9,10 @@ let rec dnto = function
     
 //34.3
 let rec iter = function
-    |(n,i) when i <= n -> i :: iter(n , i + 2)
-    |(n,i) when i > n -> []
-    |(n,i) -> []
+    |(n,i, k) when k <= n -> i :: iter(n , i + 2, k + 1)
+    |(n,i, k) -> []
+
 let rec evenn = function
-    |n -> iter(n, 0)
+    |n -> iter(n, 0, 1)
+
+
